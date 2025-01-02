@@ -5,8 +5,11 @@
 
 # DATA DIRI
 
+
 Nama: Muhammad Aziz Tri Ramadhan 
+
 NIM: 312410380
+
 Kelas: TI.24.A3
 
 
